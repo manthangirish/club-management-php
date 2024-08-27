@@ -15,6 +15,6 @@ It has minimal frontend and this is contributed along with my two of friends.
 - HTML
 - CSS
 
-###Contributors
+### Contributors
 - [Megha Shet](https://github.com/)
 - [Kumkum](https://github.com/)
