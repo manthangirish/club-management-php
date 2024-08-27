@@ -2,7 +2,7 @@
 
 ### Introduction
 This project makes ease for club organizers and who maintain the records of the club member in the college.
-Also it has a database integrated to maintaine the records the club members, moderators and admin profiles.
+Also it has a database integrated to maintain the records of the club members, moderators and admin profiles.
 It has minimal frontend and this is contributed along with my two of friends.
 
 ### Features
@@ -16,5 +16,5 @@ It has minimal frontend and this is contributed along with my two of friends.
 - CSS
 
 ### Contributors
-- [Megha Shet](https://github.com/)
+- [Megha Shet](https://github.com/shet-megha)
 - [Kumkum](https://github.com/)
